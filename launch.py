@@ -1,4 +1,4 @@
-import blackjack_v3
+import blackjack
 
 
-blackjack_v3.play()
+blackjack.play()
